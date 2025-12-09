@@ -1,0 +1,8 @@
+flask==3.0.0
+gunicorn==21.2.0
+torch
+numpy
+scipy
+# Add your specific TTS library requirements below
+# e.g., coqui-tts
+# e.g., git+https://github.com/nari-labs/dia.git
