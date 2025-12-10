@@ -1,8 +1,2 @@
 Flask==3.0.0
 gTTS==2.5.0
-torch==2.1.0
-torchaudio==2.1.0
-numpy==1.24.3
-# Add your specific TTS library requirements below
-# e.g., coqui-tts
-# e.g., git+https://github.com/nari-labs/dia.git
